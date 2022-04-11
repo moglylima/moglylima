@@ -2,7 +2,7 @@
 
 - 🧑‍🎓 Graduated in Computer Networks from the Federal University of Ceará
 - :man_technologist: Studying Front/Back-End technologies
-- Passionate about DevOps culture
+- 💭 Passionate about DevOps culture
 
 <br>
 <!--Stacks-->
