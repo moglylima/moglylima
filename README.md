@@ -32,8 +32,8 @@
 <!--Analytics...-->
 <div align="left">
   <a href="https://github.com/moglesonlima">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=moglesonlima&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moglesonlima&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=moglesonlima&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moglesonlima&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
  
 <!--Contatos...-->
