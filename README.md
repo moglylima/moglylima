@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Mogleson Lima</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="10px">, I'm Mogleson Lima</h1>
 
 - 🧑‍🎓 Graduated in Computer Networks from the Federal University of Ceará
 - :man_technologist: Studying Front/Back-End technologies
