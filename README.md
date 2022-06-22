@@ -5,7 +5,7 @@
 - 💭 Passionate about DevOps culture
 
 <br>
-<!--Stacks-->
+<!--Stacks
 
 ## 🛠 &nbsp;Tech Stack
 <div style="display: inline_block"><br>
@@ -24,7 +24,7 @@
     <img align="center" alt="Mogly-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
     <img align="center" alt="Mogly-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg">
         
-</div>
+</div>-->
 
 <br>
 <br>
