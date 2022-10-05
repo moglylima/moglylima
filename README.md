@@ -4,32 +4,22 @@
 - :man_technologist: Studying Front/Back-End technologies
 - 💭 Passionate about DevOps culture
 
+
+<div align="center">
+
+  <a href="https://github.com/moglesonlima">
+
+  <img height=180em src="https://github-readme-stats.vercel.app/api?username=moglesonlima&show_icons=true&theme=dark"/>
+
+  <img height=180em with=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=moglesonlima&layout=compact&langs_count=16&theme=dark"/>
+
+</div>
+
+## Connect with me: ⤵
+
+
 <!-- ## 🛠 &nbsp;Tech Stack -->
 
-<br>
-
-<!--Analytics...
-<div align="left">
-<a href="https://github.com/moglesonlima">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moglesonlima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moglesonlima&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<!-- 
-<div align="left">
-  <a href="https://github.com/moglesonlima">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=moglesonlima&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
-  
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moglesonlima&layout=compact&langs_count=30&theme=dark"/>
-
-</div>
-
--->
-
-
-<!--Contatos...-->
-<br>
-
-## ✉️ Contacts
 <div>
     <a href="mailto:moglesonlima@alu.ufc.br" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
