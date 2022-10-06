@@ -12,16 +12,12 @@
     </div>
 </div>
 
-<br>
-<br>
-<br>
-
 ![Profile Viewsa](https://komarev.com/ghpvc/?username=moglesonlima&label=Profile%20views&color=0e75b6&style=flat)
 
 <div>
-<img  height=160em  src="https://github-readme-stats.vercel.app/api?username=moglesonlima&show_icons=true&theme=dark"/>
-<img  height=160em  with=180em  src="https://github-readme-stats.vercel.app/api/top-langs/?username=moglesonlima&layout=compact&langs_count=16&theme=dark"/>
-<img  height=160em  src="https://github-readme-streak-stats.herokuapp.com/?user=moglesonlima&show_icons=true&theme=dark"  alt="moglesonlima" />
+<img  height=140em  src="https://github-readme-stats.vercel.app/api?username=moglesonlima&show_icons=true&theme=dark"/>
+<img  height=140em  with=180em  src="https://github-readme-stats.vercel.app/api/top-langs/?username=moglesonlima&layout=compact&langs_count=16&theme=dark"/>
+<img  height=140em  src="https://github-readme-streak-stats.herokuapp.com/?user=moglesonlima&show_icons=true&theme=dark"  alt="moglesonlima" />
 </div>
 
 ## 🛠 &nbsp;My Tech Skills
