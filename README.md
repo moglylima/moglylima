@@ -12,8 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<head>
+  <link rel="stylesheet" type="text/css" href="./style/style.css">
+</head>
 <div className="desc-perfil">
-<table border="none">
+<table >
 <tr>
 <td><img vspace="30"  hspace="30"  width="200" src='./img/dev-png.png'/></td> 
 <td> 
@@ -28,12 +32,12 @@ Here are some ideas to get you started:
 </td>
 
 </tr>
-</table border="none">
+</table >
 </div>
 
 <h2>🛠 &nbsp;Tech Stack</h2>
 
-<table border="none">
+<table >
 <td>
 <p hspace="20" class="linguagens">
 <a href="https://skillicons.dev">
@@ -84,7 +88,7 @@ Here are some ideas to get you started:
 <h2 >Connect with me: ⤵ </h2>
 
 <div >
-<table border="none">
+<table >
 <td>
 <div>
 <a href="https://www.instagram.com/mogly_lima/" target="_blank" rel="noopener noreferrer">
@@ -109,7 +113,7 @@ Here are some ideas to get you started:
 
 <h2>Ask me about: 💬</h2>
 <div className="contacts">
-<table border="none">
+<table >
 <td>
 <a href="mailto:moglesonlima@alu.ufc.br" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
