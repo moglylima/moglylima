@@ -1,6 +1,6 @@
 <div>
     <div style="float: left">
-        <img hspace="60" style="width:200px" src="./img/dev-png.png" />
+        <img hspace="120" style="width:200px" src="./img/dev-png.png" />
     </div>
     <div>
         <h1 style="size: 200px"> Hi 👋, I'm Mogleson Lima</h1>
@@ -24,7 +24,7 @@
 <img  height=160em  src="https://github-readme-streak-stats.herokuapp.com/?user=moglesonlima&show_icons=true&theme=dark"  alt="moglesonlima" />
 </div>
 
-# 🛠 &nbsp;My Tech Skills
+## 🛠 &nbsp;My Tech Skills
 
 [![My Skills](https://skillicons.dev/icons?i=java,js,html,css,bash)](https://skillicons.dev)
 
@@ -34,7 +34,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,firebase)](https://skillicons.dev)
 
-# Connect with me: 💬
+## Connect with me: 💬
 
 <div >
 <a  href="https://www.instagram.com/mogly_lima/"  target="_blank" >
@@ -51,7 +51,7 @@
 
 </div>
 
-# Ask me about: 📫
+## Ask me about: 📫
 
 <div  >
 <a  href="mailto:moglesonlima@alu.ufc.br"  target="_blank">
