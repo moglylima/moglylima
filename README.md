@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div className="desc-perfil">
-<table>
+<table border="none">
 <tr>
 <td><img vspace="30"  hspace="30"  width="200" src='./img/dev-png.png'/></td> 
 <td> 
@@ -28,12 +28,12 @@ Here are some ideas to get you started:
 </td>
 
 </tr>
-</table>
+</table border="none">
 </div>
 
 <h2>🛠 &nbsp;Tech Stack</h2>
 
-<table>
+<table border="none">
 <td>
 <p hspace="20" class="linguagens">
 <a href="https://skillicons.dev">
@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 <h2 >Connect with me: ⤵ </h2>
 
 <div >
-<table>
+<table border="none">
 <td>
 <div>
 <a href="https://www.instagram.com/mogly_lima/" target="_blank" rel="noopener noreferrer">
@@ -109,7 +109,7 @@ Here are some ideas to get you started:
 
 <h2>Ask me about: 💬</h2>
 <div className="contacts">
-<table>
+<table border="none">
 <td>
 <a href="mailto:moglesonlima@alu.ufc.br" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
