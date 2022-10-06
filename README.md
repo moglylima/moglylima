@@ -7,7 +7,7 @@
         <ul>
             <li>     🧑‍🎓 Graduated in Computer Networks from the Federal University of Ceará;</li>
             <li>     👨‍💻 Studying Front/Back-End technologies;</li>
-            <li>     💭 Passionate about DevOps culture.</li>
+            <li>     💭 Passionate about software engineering, especially regarding the DevOps culture and technologies involved in this world.</li>
         </ul>
     </div>
 </div>
