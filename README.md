@@ -3,7 +3,7 @@
         <img hspace="120" style="width:200px" src="./img/dev-png.png" />
     </div>
     <div>
-        <h1 style="size: 200px"> Hi 👋, I'm Mogleson Lima</h1>
+        <h1 style="size: 120px"> Hi 👋, I'm Mogleson Lima</h1>
         <ul>
             <li>     🧑‍🎓 Graduated in Computer Networks from the Federal University of Ceará;</li>
             <li>     👨‍💻 Studying Front/Back-End technologies;</li>
@@ -21,14 +21,9 @@
 </div>
 
 ## 🛠 &nbsp;My Tech Skills
-
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,bash)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=spring,nodejs,react)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=postgres,mongo,mysql)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,firebase)](https://skillicons.dev)
+<div>
+        <img width="700px" src="https://skillicons.dev/icons?i=java,js,html,css,bash,spring,nodejs,react,postgres,mongo,mysql,aws,docker,kubernetes,firebase" />
+</div>
 
 ## Connect with me: 💬
 
