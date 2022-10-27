@@ -17,13 +17,13 @@
 <div>
 <img  height=140em  src="https://github-readme-stats.vercel.app/api?username=moglesonlima&show_icons=true&theme=dark"/>
 <img  height=140em  with=180em  src="https://github-readme-stats.vercel.app/api/top-langs/?username=moglesonlima&layout=compact&langs_count=16&theme=dark"/>
-<img  height=140em  src="https://github-readme-streak-stats.herokuapp.com/?user=moglesonlima&show_icons=true&theme=dark"  alt="moglesonlima" />
+<!-- <img  height=140em  src="https://github-readme-streak-stats.herokuapp.com/?user=moglesonlima&show_icons=true&theme=dark"  alt="moglesonlima" /> -->
 </div>
 
-## 🛠 &nbsp;My Tech Skills
+<!-- ## 🛠 &nbsp;My Tech Skills
 <div>
         <img width="700px" src="https://skillicons.dev/icons?i=java,js,html,css,bash,spring,nodejs,react,postgres,mongo,mysql,aws,docker,kubernetes,firebase" />
-</div>
+</div> -->
 
 ## Connect with me: 💬
 
