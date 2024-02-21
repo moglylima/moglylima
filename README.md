@@ -1,29 +1,45 @@
-<div>
-    <div style="float: left">
-        <img hspace="120" style="width:200px" src="./img/dev-png.png" />
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+</head>
+<body>
+
+<div class="subdiv" style="margin-bottom: 15px;">
+    <div >
+        <img width="80%" src="./img/image-banner-linkedin.jpeg" />
     </div>
-    <div>
-        <h1 style="size: 120px"> Hi 👋, I'm Mogleson Lima</h1>
+    
+</div>
+
+<div class="subdiv">
+<div>
+        <h1> Hi 👋, I'm Mogleson Lima</h1>
         <ul>
             <li>     🧑‍🎓 Graduated in Computer Networks from the Federal University of Ceará;</li>
             <li>     👨‍💻 Studying Front/Back-End technologies;</li>
             <li>     💭 Passionate about software engineering, especially regarding the DevOps culture and technologies involved in this world.</li>
         </ul>
-    </div>
+    </div>    
 </div>
+
+</body>
+</html>
 
 ![Profile Viewsa](https://komarev.com/ghpvc/?username=moglesonlima&label=Profile%20views&color=0e75b6&style=flat)
 
 <div>
 <img  height=140em  src="https://github-readme-stats.vercel.app/api?username=moglesonlima&show_icons=true&theme=dark"/>
 <img  height=140em  with=180em  src="https://github-readme-stats.vercel.app/api/top-langs/?username=moglesonlima&layout=compact&langs_count=16&theme=dark"/>
-<!-- <img  height=140em  src="https://github-readme-streak-stats.herokuapp.com/?user=moglesonlima&show_icons=true&theme=dark"  alt="moglesonlima" /> -->
+ <img  height=140em  src="https://github-readme-streak-stats.herokuapp.com/?user=moglesonlima&show_icons=true&theme=dark"  alt="moglesonlima" />
 </div>
 
-<!-- ## 🛠 &nbsp;My Tech Skills
+## 🛠 &nbsp;My Tech Skills
 <div>
-        <img width="700px" src="https://skillicons.dev/icons?i=java,js,html,css,bash,spring,nodejs,react,postgres,mongo,mysql,aws,docker,kubernetes,firebase" />
-</div> -->
+        <img src="https://skillicons.dev/icons?i=java,js,bash,spring,react,aws,docker,terraform" />
+</div> 
 
 ## Connect with me: 💬
 
