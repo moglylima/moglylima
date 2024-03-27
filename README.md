@@ -36,10 +36,22 @@
  <img  height=140em  src="https://github-readme-streak-stats.herokuapp.com/?user=moglesonlima&show_icons=true&theme=dark"  alt="moglesonlima" />
 </div>
 
-## 🛠 &nbsp;My Tech Skills
-<div>
-        <img src="https://skillicons.dev/icons?i=java,js,bash,spring,react,aws,docker,terraform" />
-</div> 
+## 🛠 &nbsp;My Skills
+#### Languages
+<img src="https://skillicons.dev/icons?i=java,javascript,python,bash,go" />
+
+#### Frameworks/Libs
+<img src="https://skillicons.dev/icons?i=spring,react,nextjs,nodejs,tailwind,bootstrap," />
+
+#### Cloud
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure" />
+
+### Data
+<img src="https://skillicons.dev/icons?i=mongo,postgres,mysql,sqlite,firebase," />
+
+### Others
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,k8s,grafana,prometheus,terraform,ansible,jest" />
+
 
 ## Connect with me: 💬
 
