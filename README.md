@@ -3,7 +3,7 @@
 - 📚 **Bachelor's in Information Systems** (in progress) at Federal University of Ceará
 - 💻 **Full Stack Developer** with 3+ years of experience
 - 💭 Passionate about software engineering and DevOps
-- 
+  
 ## Technical Skills
 
 **Languages:** JavaScript/TypeScript, HTML, CSS, Java, Python  
