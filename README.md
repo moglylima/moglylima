@@ -36,11 +36,6 @@ _2022 - 2023_
 - Implemented unit tests with Jest
 
 ## Education
-
-**Technologist in Computer Networks**  
-*Federal University of Ceará*  
-_2019 - 2023_
-
 **Bachelor's in Information Systems**  
 *Federal University of Ceará*  
 _Currently pursuing_
