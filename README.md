@@ -6,7 +6,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moglesonlima@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mmaciel-dev)
 
-📍 Quixadá-CE, Brazil | 📞 +55 (88) 9.9256-8748
+📍 Quixadá-CE, Brazil | 📞 +55 (88) 9.9609-7370
 
 </div>
 
